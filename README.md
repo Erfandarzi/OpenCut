@@ -91,3 +91,5 @@ The architecture is still being designed, so outside contributions are not open 
 OpenCut is available under the [MIT License](LICENSE).
 
 See [`apps/desktop/README.md`](apps/desktop/README.md) for desktop build notes.
+
+<!-- sync -->
