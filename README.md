@@ -92,4 +92,4 @@ OpenCut is available under the [MIT License](LICENSE).
 
 See [`apps/desktop/README.md`](apps/desktop/README.md) for desktop build notes.
 
-<!-- sync -->
+<!-- sync2 -->
