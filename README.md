@@ -89,3 +89,5 @@ Desktop platform requirements are documented in [`apps/desktop/README.md`](apps/
 The architecture is still being designed, so outside contributions are not open yet. OpenCut is supported by [fal.ai](https://fal.ai?utm_source=github-opencut&utm_campaign=oss); sponsorship inquiries can be sent to [sponsor@opencut.app](mailto:sponsor@opencut.app).
 
 OpenCut is available under the [MIT License](LICENSE).
+
+See [`apps/desktop/README.md`](apps/desktop/README.md) for desktop build notes.
